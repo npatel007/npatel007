@@ -1,4 +1,4 @@
-* **CISCO*(CISCO_MASTER_INDEX.md)
+* **CISCO** (CISCO_MASTER_INDEX.md)
 
 [ESA](ESA)
 
