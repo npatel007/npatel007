@@ -67,5 +67,7 @@
     "rollup-plugin-sass": "^1.0.1",
     "rollup-plugin-uglify": "^6.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "eslint-utils": "^1.4.3"
+  }
 }
