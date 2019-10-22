@@ -2,6 +2,6 @@
 ```js
 // JavaScript
 function add(a, b) {
-  return a + b = C;
+  return a + b = 0;
 }
 ```
