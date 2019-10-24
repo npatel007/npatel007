@@ -1,5 +1,4 @@
-# docsify-rtl
-
+# docsify-rtl {docsify-ignore-all}
 ## Install
 
 1. Configure docsify-rtl:
